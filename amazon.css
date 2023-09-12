@@ -1,0 +1,86 @@
+*{
+    font-family: 'cabin';
+
+}
+.navbar{
+    background-color: rgb(18,25,33);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    margin-left: -6px;
+}
+.text-white{
+    color: white;
+}
+.increase{
+    width: 300px;
+}
+.log{
+    margin-left: 50px;
+}
+.holder{
+    margin-right: 50px;
+}
+.search-bar{
+    display: flex;
+}
+.sl{
+    background-color: rgb(251,190,103);
+}
+.holder{
+    display: flex;
+}
+.nav2{
+    display: flex;
+    background-color: rgb(36,48,64);
+    justify-content: space-between;
+    align-items: center;
+}
+.conatainer1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    justify-content: space-evenly;
+}
+.c1{
+    align-items: center;
+    margin-top: -480px;
+   
+    background-color: white;
+    height: fit-content;
+}
+.text-grey{
+    color: gray;
+}
+.container2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;;
+    justify-content: space-evenly;
+}
+.apart{
+    display: flex;
+   justify-content: space-evenly;
+}
+.c2{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+.c3{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+.c4{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+.last{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: -300px;
+}
